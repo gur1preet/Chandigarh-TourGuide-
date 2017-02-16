@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Chandigarh</string>
+
+    <string name="fun_category">Fun \u0026 Games</string>
+    <string name="stay_category">Stay</string>
+    <string name="shop_category">Shop</string>
+    <string name="eateries_category">Eateries</string>
+
+    <string name="paintball_heading">Xtreme Warzone</string>
+    <string name="paintball_description">Opposite of Sant Shri Asaram Ji Ashram, Kharar, Soonak, Punjab 133301</string>
+    <string name="bluo_heading">Blu-O</string>
+    <string name="bluo_description">Elante Mall, Plot No.178-178A, 3rd Floor, Elante Mall, Chandigarh Industrial Area, Phase 1, Chandigarh, 160002</string>
+    <string name="mr_heading">Mystery Rooms</string>
+    <string name="mr_description">S.C.O No. 489-90, First Floor, 35C, Sector 35, Chandigarh, 160035</string>
+    <string name="shoot_heading">Salvo Shooters Arena</string>
+    <string name="shoot_description">SCO 654, Sector 70 Mohali, Sector-70, MOHALI</string>
+
+    <string name="hyatt_heading">Hyatt Regency</string>
+    <string name="hyatt_description">178 Industrial and Business Park, Phase I, Phase-1, Industrial Area Phase I, Chandigarh, 160002</string>
+    <string name="mariott_heading">JW Marriott</string>
+    <string name="mariott_description"> Plot no: 6, Sector 35B, Dakshin Marg, Chandigarh, 160035</string>
+    <string name="taj_heading">Taj</string>
+    <string name="taj_description"> Block No. 9, Sector 17A, Chandigarh, 160017</string>
+    <string name="altius_heading">The Altius</string>
+    <string name="altius_description">The Altius Chd, Chandigarh Rd, Industrial Area Phase II, Chandigarh, 160002</string>
+
+    <string name="brew_estate_heading">The Brew Estate</string>
+    <string name="brew_estate_description">SCO 25, Madhya Marg, Sector 26, Chandigarh, 160019</string>
+    <string name="pashtun_heading">Pashtun</string>
+    <string name="pashtun_descritpion">SCO 333-334, Sector 35-B, Chandigarh, 160035</string>
+    <string name="bbq_nation_heading">Barbeque Nation</string>
+    <string name="bbq_nation_description">SCO 39, Madhya Marg, Block 2, Sector 26, Near Green Market Chowk, Chandigarh, 160019</string>
+
+    <string name="elante_heading">Elante Mall</string>
+    <string name="elante_description">Elante Mall, 178-178A, Purv Marg, Industrial Area Phase I, Chandigarh, 160002</string>
+    <string name="ncm_heading">The North Country Mall</string>
+    <string name="ncm_description">NH-21, Chandigarh Kharar Road, Sector-118, Sahibzada Ajit Singh Nagar, Punjab 160055</string>
+
+</resources>
